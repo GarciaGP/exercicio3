@@ -1,2 +1,3 @@
 #Tomcat publish data
-#Tue Mar 12 14:43:11 BRT 2019
+#Tue Mar 12 15:45:05 BRT 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Gabriel.Pereira\\Desktop\\Projetos\ PCI\\Gabriel\\exercicio3\\WebContent\\WEB-INF\\lib\\spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar

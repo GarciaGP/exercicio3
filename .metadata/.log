@@ -257,3 +257,6 @@ java.net.SocketTimeoutException: Read timed out
 !MESSAGE Could not delete C:/Users/Gabriel.Pereira/Desktop/Projetos PCI/Gabriel/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/exercicio3/WEB-INF/lib/primefaces-extensions-0.7.1.jar. May be locked by another process.
 !SUBENTRY 1 org.eclipse.wst.server.core 4 0 2019-03-12 14:43:15.886
 !MESSAGE Could not delete C:/Users/Gabriel.Pereira/Desktop/Projetos PCI/Gabriel/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/exercicio3/WEB-INF/lib. May be locked by another process.
+
+!ENTRY org.eclipse.jdt.ui 2 0 2019-03-12 15:05:31.682
+!MESSAGE The 'org.eclipse.mylyn.java.ui.javaAllCompletionProposalComputer' proposal computer from the 'org.eclipse.mylyn.java.ui' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
