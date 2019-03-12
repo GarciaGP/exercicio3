@@ -1,0 +1,30 @@
+package br.com.etechoracio.sihas.biblioteca.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.springframework.format.annotation.DateTimeFormat;
+
+import lombok.Data;
+
+@Entity
+@Table(name ="SIHAS_BIBLIOTECA")
+public class Autor {
+	
+	@Id
+	@GeneratedValue
+	@Column(name="")
+	private Long id;
+	
+	@Column(name="")
+	private String nome;
+	
+	@Column
+	@DateTimeFormat
+	private dataInicio Date;
+	private dataFim ;
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Gabriel.Pereira\Desktop\Projetos PCI\Gabriel\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3729637353.index
+1779124985.index
+1572857338.index
+1551939868.index
+2936596959.index
+991136054.index

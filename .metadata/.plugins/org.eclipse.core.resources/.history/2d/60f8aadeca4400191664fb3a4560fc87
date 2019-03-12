@@ -1,0 +1,10 @@
+package br.com.etechoracio.sihas.biblioteca.model;
+
+import java.util.*;
+
+public class Autor {
+
+	private Long id;
+	private String nome;
+	private dataInicio Date;
+}
